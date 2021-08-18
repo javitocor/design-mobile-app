@@ -24,8 +24,6 @@
 
 Design for a mobile app.
 
-![screenshot](/assets/images/screenshot.PNG)
-
 # Built With
 - HTML
 - CSS
