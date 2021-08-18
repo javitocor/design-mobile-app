@@ -221,16 +221,19 @@ header {
 }
 
 .plus-icon {
+  width:53px;
+  height:53px;
   position:relative;
   border: 1px solid grey;
   border-radius: 50%;
   background-color: rgb(34, 182, 187);
-  padding: 10px;
+  padding: 9px 6px 8px 11px;
   margin-bottom: 35px;
 }
 
 .fa-plus {
   color:white;
+  font-weight: bolder;
   font-size: 2.1rem;
   margin:0 auto;
 }
