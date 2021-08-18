@@ -84,11 +84,11 @@ Enjoy!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Star-Wars-Catalogue.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Star-Wars-Catalogue/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Star-Wars-Catalogue.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Star-Wars-Catalogue/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Star-Wars-Catalogue.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Star-Wars-Catalogue/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Star-Wars-Catalogue.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Star-Wars-Catalogue/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/design-mobile-app.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/design-mobile-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/design-mobile-app.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/design-mobile-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/design-mobile-app.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/design-mobile-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/design-mobile-app.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/design-mobile-app/issues
