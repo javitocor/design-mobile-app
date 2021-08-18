@@ -34,7 +34,7 @@ Design for a mobile app.
 
 # Live Demo & Video Presentation
 
-[Live Demo Link](https://raw.githack.com/javitocor/Capstone-Project/master/index.html)
+[Live Demo Link](https://rawcdn.githack.com/javitocor/design-mobile-app/6f84bb0247350028a92710e3180047d0cdb01a03/index.html)
 
 
 # Getting Started
