@@ -52,7 +52,7 @@ body, main, .itemCard {
 
 .item{
   height: 780px;
-  width: 55%;
+  width: 35%;
   margin: 200 auto;
   border:1px solid black;
 }
@@ -119,6 +119,7 @@ header {
 .has-search .form-control {
   padding-left: 2.375rem;
   border-radius: 10px !important;
+  font-weight: bold;
 }
 
 .has-search .form-control-feedback {
@@ -132,6 +133,7 @@ header {
   color: #aaa;
   padding-top: 6px;
   padding-bottom: 0px;
+  padding-left: 5px;
 }
 
 .form-control {
@@ -217,15 +219,16 @@ header {
 .plus-icon {
   position:relative;
   border: 1px solid grey;
-  border-radius: 100%;
+  border-radius: 50%;
   background-color: rgb(34, 182, 187);
-  padding:10px;
+  padding: 10px;
   margin-bottom: 35px;
 }
 
 .fa-plus {
   color:white;
   font-size: 2.1rem;
+  margin:0 auto;
 }
 
 .center-top {
@@ -241,8 +244,13 @@ header {
 
 .first div, .second div, .third div, .fourth div {
   border: 1px solid grey;
-  border-radius: 100%;
+  border-radius: 50%;
   padding: 13px;
+}
+
+.link-text {
+  font-size: 10px;
+  color: grey;
 }
 
 .fa-users, .fa-american-sign-language-interpreting, .fa-user-secret, .fa-shopping-basket{
@@ -305,5 +313,5 @@ header {
 }
 
 .card-title-sub {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
