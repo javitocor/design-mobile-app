@@ -1,0 +1,309 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+* {
+  font-family: "Roboto";
+}
+
+body, main, .itemCard {
+  height: 100%;
+}
+
+.item{
+  height: 780px;
+  width: 55%;
+  margin: 200 auto;
+  border:1px solid black;
+}
+
+header {
+  width:100%;
+  height: 22%;
+}
+
+.nav-top {
+  width: 100%;
+  height: 55%;
+  background-color: rgb(34, 182, 187);
+}
+
+.nav-bottom {
+  width: 100%;
+  height: 45%;
+  background-color: rgb(5, 13, 48);
+}
+
+.top {
+  width: 100%;
+  height: 40%;
+  padding: 10px 17px;
+}
+
+.lower {
+  width: 100%;
+  height: 60%;
+  padding: 0;
+}
+
+.time{
+  width: 50%;
+  height:100%;
+}
+
+.time p {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.icons {
+  width: 50%;
+  height:100%;
+}
+
+.icons ul {
+  list-style-type:none;
+}
+
+.icons ul li {
+  display: inline;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.has-search {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+  border-radius: 10px !important;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 1.5rem;
+  height: 1.5rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+  padding-top: 6px;
+  padding-bottom: 0px;
+}
+
+.form-control {
+  height: 30px;
+}
+
+.nav-image {
+  height: 100%;
+  width: 20%;
+}
+
+.nav-text {
+  height: 100%;
+  width: 80%;
+  padding: 9px 4px;
+}
+
+.nav-text p {
+  font-size: 0.7rem;
+  color: white;
+}
+
+.nav-text h6 {
+  font-size: 1rem;
+  color: white;
+  margin-bottom: 2px;
+}
+
+.containers{
+  width: 100%;
+  height: 100%;
+}
+
+.img-cont{  
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  border-radius: 100%;
+  border: 3px solid green;
+}
+
+.image {  
+  width: 100%;
+  height: 100%;
+}
+
+.center-container {
+  width: 100%;
+  height: 70%;
+}
+
+.footer {
+  width: 100%;
+  height: 8%;
+  background-color: white;
+  border-top: 1px solid grey;
+}
+
+.foot-left {
+  height: 100%;
+  width: 40%;
+}
+
+.foot-center {
+  height: 100%;
+  width: 20%;
+}
+
+.foot-right {
+  height: 100%;
+  width: 40%;
+}
+
+.foot-left .containers , .foot-right div {
+  display: inline;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  position:relative;
+  top: calc(50% - 10px);
+}
+
+.plus-icon {
+  position:relative;
+  border: 1px solid grey;
+  border-radius: 100%;
+  background-color: rgb(34, 182, 187);
+  padding:10px;
+  margin-bottom: 35px;
+}
+
+.fa-plus {
+  color:white;
+  font-size: 2.1rem;
+}
+
+.center-top {
+  width: 90%;
+  height: 25%;
+  margin: 0 auto;
+}
+
+.first, .second, .third, .fourth {
+  width: 25%;
+  height: 100%;
+}
+
+.first div, .second div, .third div, .fourth div {
+  border: 1px solid grey;
+  border-radius: 100%;
+  padding: 13px;
+}
+
+.fa-users, .fa-american-sign-language-interpreting, .fa-user-secret, .fa-shopping-basket{
+  color: rgb(34, 182, 187);
+  font-size: 2rem;
+}
+
+.third div {
+  padding:13px 18px 13px 18px;
+}
+
+.center-bottom {
+  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.image-card {
+  width: 18%;
+  margin: 0 auto;
+  border-radius: 100%;
+}
+
+.name {
+  width: 85%;
+  margin-left: 15px;
+}
+
+.card {
+  border: none !important;
+}
+
+.body-two{
+  border: 1px solid grey !important;
+  border-radius: 10px !important;
+}
+
+.button {
+  display: block;
+  width: 55%;
+  text-align: center;
+  align-self: center;
+  margin: 0 auto;
+  background-color: rgb(5, 13, 48) !important;
+  color: white;
+  border-radius: 10px !important;
+}
+
+.card-footer {
+  height: 10px !important;
+}
+
+.card-footer-left, .card-footer-right {
+  width: 50%;
+}
+
+.card-footer-right ul li {
+  display: inline;
+  font-weight: bold;
+}
+
+.card-title-sub {
+  font-size: 1.4rem;
+}
